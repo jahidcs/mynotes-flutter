@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "726009987795",
+    "project_id": "mynotes-flufire",
+    "storage_bucket": "mynotes-flufire.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:726009987795:android:2ba989bbad037e38e10a26",
+        "android_client_info": {
+          "package_name": "com.example.mynotes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "726009987795-dir20alc6a19f7djf75sg61gnsqjuovh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDc8TIC-KL5b8pwpo_jXqmUGDJFUkSeG-k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "726009987795-dir20alc6a19f7djf75sg61gnsqjuovh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
